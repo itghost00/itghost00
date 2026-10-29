@@ -1,16 +1,15 @@
-## Hi there 👋
+# Amit Thapa
 
-<!--
-**itghost00/itghost00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ethical Hacking | Scripts**
 
-Here are some ideas to get you started:
+I share scripts and things I learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Knowledge Base
+
+📚 **[Archive — Personal Knowledge Base](https://itghost.gitbook.io/archive)**
+
+My collection of ethical hacking notes, cheatsheets, and learning resources.
+
+---
+
+*Building little things to make life easier.*
