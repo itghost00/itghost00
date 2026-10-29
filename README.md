@@ -1,6 +1,6 @@
 # Amit Thapa
 
-**Ethical Hacking | Scripts**
+** 👽 Ethical Hacking | 💻 Scripts**
 
 I share scripts and things I learn along the way.
 
